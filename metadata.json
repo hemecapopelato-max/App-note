@@ -1,0 +1,6 @@
+{
+  "name": "Notely",
+  "description": "An elegant, feature-rich notes and ideas manager with categories, search, rich styling, pinning, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
